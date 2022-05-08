@@ -18,10 +18,11 @@ Latest Version: 1.3.3 | Last Updated: April 12th 2022
 
 ## Information and Features
 #### The command to open the Chat GUI is `/cofl` 
-##### NotEnoughRacism is a Hypixel Skyblock Auction Flipping mod with the aim to make auction flipping more accessible and easier to do.
+##### Cofl is a Hypixel Skyblock Auction Flipping mod with the aim to make auction flipping more accessible and easier to do.
 
 <details>
   <summary>Features</summary>
+  
    - Market Manipulation checks
    - Customizable searches
    - Blacklist certain items
