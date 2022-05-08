@@ -10,7 +10,7 @@ Latest Version: 1.3.3 | Last Updated: April 12th 2022
 1) [Minecraft Java Edition](https://www.minecraft.net/en-us)
 2) [Latest Forge for 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 ### Installation: 
-1) Go to the [Releases Tab](https://github.com/Cofldev/Cofl/releases) <img src="https://i.imgur.com/27vzJQL.png">
+1) Go to the [Releases Tab](https://github.com/Cofldev/Cofl/releases) <img src="https://i.imgur.com/70G0tqu.png">
 2) Install the Release
 3) Place the file into `.minecraft/mods` 
 4) Run `/cofl start` in Minecraft
