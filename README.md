@@ -1,4 +1,4 @@
-# Cofl
+# FarmHUD
 Latest Version: 1.3.3 | Last Updated: June 6th 2022
 <div class="zzz" allign="left">
 
@@ -13,19 +13,19 @@ Latest Version: 1.3.3 | Last Updated: June 6th 2022
 1) Go to the [Releases Tab](https://github.com/Cofldev/Cofl/releases) <img src="https://i.imgur.com/70G0tqu.png">
 2) Install the Release
 3) Place the file into `.minecraft/mods` 
-4) Run `/cofl start` in Minecraft
-5) Follow the instructions provided
+4) Run `/fhud` in Minecraft
+5) Customize settings and enjoy
 </details>
   
 ## Information and Features
-#### The command to open the Chat GUI is `/cofl` 
-##### Cofl is a Hypixel Skyblock Auction Flipping mod with the aim to make auction flipping more accessible and easier to do.
+#### The command to open the GUI is `/fhud` 
+##### FarmHUD was designed to make farming easier and more accessible for newer players
 
 <details>
   <summary>Features</summary>
   
-   - Market Manipulation checks
-   - Customizable searches
-   - Blacklist certain items
-   - Web GUI
-   - Only show flips in your price range
+   - Angle Marker
+   - Estimated Profits
+   - Skill XP Rates
+   - Jacobs Contest Reminders
+   - Farm Builder Templates (schematics)
