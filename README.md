@@ -10,7 +10,7 @@ Latest Version: 1.3.3 | Last Updated: June 6th 2022
 1) [Minecraft Java Edition](https://www.minecraft.net/en-us)
 2) [Latest Forge for 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 ### Installation: 
-1) Go to the [Releases Tab](https://github.com/Cofldev/Cofl/releases) <img src="https://imgur.com/a/D0Yg2Dy.png">
+1) Go to the [Releases Tab](https://github.com/Cofldev/Cofl/releases) <img src="https://media.discordapp.net/attachments/984862553920380999/985573267937050634/intrsuctions.PNG?width=909&height=643">
 2) Install the Release
 3) Place the file into `.minecraft/mods` 
 4) Run `/fhud` in Minecraft
