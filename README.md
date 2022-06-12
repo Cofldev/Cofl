@@ -1,5 +1,5 @@
 # Cofl
-Latest Version: 1.3.3 | Last Updated: April 12th 2022
+Latest Version: 1.3.3 | Last Updated: June 6th 2022
 <div class="zzz" allign="left">
 
 ## Installing
